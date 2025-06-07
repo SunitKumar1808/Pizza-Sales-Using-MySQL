@@ -1,54 +1,20 @@
 # Pizza-Sales-Using-MySQL
-Bank Financial Report with Power BI – Driving Smarter Financial Decisions 🏦📊
 
-Thrilled to share a detailed and interactive Bank Financial Report Dashboard developed using Power BI, aimed at improving transparency, performance monitoring, and decision-making across banking operations.
 
-This report is designed to help stakeholders track financial metrics, manage risk, and understand the financial health of the bank with just a few clicks.
+# 🔍 1. Revenue Breakdown
+The first step was understanding how much money was coming in. I analyzed total revenue and identified the best-performing months and days.
 
-# 🔍 What the Report Covers:
-💰 Income Analysis
+# 📦 2. Best-Selling Pizzas
+I ranked pizzas by their total number of orders. It turns out, some classic flavors never go out of style! This insight helps businesses stock the right ingredients and plan promotions effectively.
 
-Tracks Interest Income and Non-Interest Income
+# ⏱️ 3. Peak Ordering Hours
+Timing is everything in food delivery. By analyzing order times, I uncovered the most popular hours for pizza orders—perfect for optimizing staffing and oven capacity.
 
-Breaks down income by product type, branch, and customer segment
+# 📆 4. Weekday vs Weekend Trends
+Do people eat more pizza on Saturdays? (Spoiler: Yes! 😉) Understanding these patterns can help in planning marketing campaigns and special offers.
 
-# 🏦 Loan Portfolio Overview
+# 📏 5. Pizza Size Preference
+Small, Medium, or Large? I looked at what size people really go for—and how it affects revenue. This has direct implications for pricing strategy and packaging.
 
-Disbursed loans by type, region, and credit risk rating
-
-Visual trends in loan growth and repayments
-
-# 🧾 Deposits Summary
-
-Monitors customer deposits, term deposits, and savings accounts
-
-Highlights top-performing branches
-
-# ⚠️ NPA Monitoring
-
-Displays Non-Performing Assets and risk flags
-
-Drill-through to view NPAs by branch or loan officer
-
-# 📈 Financial Ratios & KPIs
-
-Net Interest Margin (NIM)
-
-Cost-to-Income Ratio
-
-Return on Assets (ROA)
-
-Capital Adequacy Ratio (CAR)
-
-# 🛠️ Power BI Features Used:
-Slicers – For filtering by branch, loan type, quarter, etc.
-
-KPI Cards – Show quick snapshots of key financial metrics
-
-Bar/Line Charts – Analyze trends and compare performance
-
-Matrix Table – Present detailed financials with subtotals and drill-downs
-
-Drill-through Pages – Deeper insights into specific branches or metrics
-
-Conditional Formatting – Visually flags performance issues or risk zones
+# 🚀 Why This Matters:
+This analysis isn’t just about pizza—it’s a blueprint for how data-driven decisions can impact any business. With MySQL, I could turn raw data into actionable insights that help optimize sales, improve operations, and boost customer satisfaction
